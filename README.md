@@ -15,14 +15,23 @@ Nocnoc: https://nocnoc.ooo/app#/chat/A1B6CDAC-637F-4455-9582-D086AC289268
 ### 見つけたサイト
 
 * https://medium.com/manash-en-blog/building-a-dead-simple-word-recognition-engine-using-convnet-in-keras-25e72c19c12b
-"Building a Dead Simple Speech Recognition Engine using ConvNet in Keras" by Manash Kumar Mandal
+_Building a Dead Simple Speech Recognition Engine using ConvNet in Keras_ by Manash Kumar Mandal
   * Code: https://github.com/manashmandal/DeadSimpleSpeechRecognizer
 
 Colabに持ってきて実行
 https://colab.research.google.com/drive/1WEFVUwM76hgqMMvHFDU_73hlWjQP3RQG?usp=sharing
 
 * https://medium.com/@mikesmales/sound-classification-using-deep-learning-8bc2aa1990b7
-"Sound Classification using Deep Learning" by Mike Smales
+_Sound Classification using Deep Learning_ by Mike Smales
 
   * Code: https://github.com/mikesmales/Udacity-ML-Capstone
   今のところエラーが起きてうまく動かない（詳細後日）
+
+## 画像認識
+
+* https://colab.research.google.com/github/google/automl/blob/master/efficientdet/tutorial.ipynb#scrollTo=V8-yl-s-WKMG
+_EfficientDet Tutorial: inference, eval, and training_
+(https://github.com/JTPA/learn_DL_together のREADME.mdの中にリンクあり）
+My copy: https://colab.research.google.com/drive/1O9zETdRbCL-HlfwHtSrRl7QotiBqMPI-#scrollTo=fHU46tfckaZo
+
+inference.pyの最後の関数inferenceに犬とかバイク・車の絵をモデルに喰わせると、Bounding Boxやラベルの配列を返してくれる模様。
