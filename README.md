@@ -31,7 +31,9 @@ https://colab.research.google.com/drive/1WEFVUwM76hgqMMvHFDU_73hlWjQP3RQG?usp=sh
 
 * https://colab.research.google.com/github/google/automl/blob/master/efficientdet/tutorial.ipynb#scrollTo=V8-yl-s-WKMG
 **EfficientDet Tutorial: inference, eval, and training**
+
 (https://github.com/JTPA/learn_DL_together のREADME.mdの中にリンクあり）
+
 My copy: https://colab.research.google.com/drive/1O9zETdRbCL-HlfwHtSrRl7QotiBqMPI-#scrollTo=fHU46tfckaZo
 
 inference.pyの最後の関数inferenceに犬とかバイク・車の絵をモデルに喰わせると、Bounding Boxやラベルの配列を返してくれる模様。
