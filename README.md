@@ -1,7 +1,8 @@
 # learn_DL_together 個人ノート
 
 JTPA みんなでやろうDL オンライン勉強会 https://github.com/JTPA/learn_DL_together
-Nocnoc: https://nocnoc.ooo/app#/chat/B1AB9B0B-1D5C-456E-BD0D-A68CBB6C889D
+
+Nocnoc: https://nocnoc.ooo/app#/chat/A1B6CDAC-637F-4455-9582-D086AC289268
 
 何か自分でまとめないと学習しないのでGithubに載せてみました。まだ初心者の練習レベルなのでこのページ自体はシェアはしないで下さい。（以下に引用したリンクはご自由にシェアして下さい。）
 
