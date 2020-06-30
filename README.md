@@ -2,7 +2,7 @@
 
 JTPA みんなでやろうDL オンライン勉強会 https://github.com/JTPA/learn_DL_together
 
-Nocnoc: https://nocnoc.ooo/app#/chat/A1B6CDAC-637F-4455-9582-D086AC289268
+Nocnoc: https://nocnoc.ooo/event/A1B6CDAC-637F-4455-9582-D086AC289268
 
 何か自分でまとめないと学習しないのでGithubに載せてみました。まだ初心者の練習レベルなのでこのページ自体はシェアはしないで下さい。（以下に引用したリンクはご自由にシェアして下さい。）
 
@@ -37,3 +37,4 @@ https://colab.research.google.com/drive/1WEFVUwM76hgqMMvHFDU_73hlWjQP3RQG?usp=sh
 My copy: https://colab.research.google.com/drive/1O9zETdRbCL-HlfwHtSrRl7QotiBqMPI-#scrollTo=fHU46tfckaZo
 
 inference.pyの最後の関数inferenceに犬とかバイク・車の絵をモデルに喰わせると、Bounding Boxやラベルの配列を返してくれる模様。
+utils.pyのget_feat_sizesやanchors.pyのコードで、元画像から色々な大きさの部分画像を色々な位置から抽出して、それをモデルが犬、車、バイクと判断するかどうか見ている？
