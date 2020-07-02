@@ -93,6 +93,10 @@ from oba <br/>
     Intersection over Union (IoU) for object detection <br/>
     Adrian Rosebrock - pyimagesearch.com <br/>
     from Komei <br/>
+    * https://towardsdatascience.com/non-maximum-suppression-nms-93ce178e177c <br/>
+    Non-maximum Suppression (NMS) <br/>
+    Sambasivarao. K
+    from Komei    
 
 * https://arxiv.org/abs/2003.08934 <br/>
 NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis <br/>
