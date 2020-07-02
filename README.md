@@ -45,6 +45,8 @@ https://www.meetup.com/JTPA-Japanese-Technology-Professionals-Association/events
 
 https://nocnoc.ooo/app#/chat/A1B6CDAC-637F-4455-9582-D086AC289268
 
+(敬称略)
+
 * https://ai.facebook.com/blog/end-to-end-object-detection-with-transformers/ <br/>
 End-to-end object detection with Transformers <br/>
 Nicolas Carion, Sergey Zagoruyko, Francisco Massa - Facebook AI <br/>
@@ -106,7 +108,7 @@ from サンディエゴの松原
 * https://arxiv.org/abs/1611.07004 <br/>
 Image-to-Image Translation with Conditional Adversarial Networks <br/>
 Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, Alexei A. Efros <br/>
-from ?
+from サンディエゴの松原
     * https://www.youtube.com/watch?v=B1bMMF8miN8&pbjreload=101 <br/>
     Image-to-Image Translation with Conditional Adversarial Networks // Creative AI Podcast Episode #11 <br/>
     Creative AI Podcast <br/>
