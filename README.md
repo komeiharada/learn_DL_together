@@ -56,10 +56,6 @@ from Yuki <br/>
     Yannic Kilcher <br/>
     from Yuki
 
-* https://www.tensorflow.org/api_docs/python/tf/signal/fft <br/>
-TensorFlow Core v2.2.0 tf.signal.fft <br/>
-from Jin
-
 * https://openaccess.thecvf.com/content_CVPR_2020/html/Menon_PULSE_Self-Supervised_Photo_Upsampling_via_Latent_Space_Exploration_of_Generative_CVPR_2020_paper.html <br/>
 PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models <br/>
 Sachit Menon, Alexandru Damian, Shijia Hu, Nikhil Ravi, Cynthia Rudin; The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2020, pp. 2437-2445 <br/>
@@ -82,6 +78,9 @@ Manash Kumar Mandal <br/>
     MFCC（メル周波数ケプストラム係数）入門 <br/>
     Qiita: @tmtakashi_dist <br/>
     from Charlie Yoshida
+    * https://www.tensorflow.org/api_docs/python/tf/signal/fft <br/>
+    TensorFlow Core v2.2.0 tf.signal.fft <br/>
+    from Jin
 
 * https://arxiv.org/abs/1911.06971 <br/>
 BSP-Net: Generating Compact Meshes via Binary Space Partitioning <br/>
