@@ -127,3 +127,32 @@ from Charlie Yoshida
 YOLOv5 is Here! <br/>
 Mihir Rajput <br/>
 from DLまるでわからん
+
+https://www.vox.com/recode/2020/6/29/21303588/deepfakes-anonymous-artificial-intelligence-welcome-to-chechnya
+How deepfakes could actually do some good
+from Komei
+
+https://kantocv.connpass.com/event/178126/
+第三回　全日本コンピュータビジョン勉強会（前編）
+from Jin
+
+* https://www.youtube.com/watch?v=9DdzzVmLzog
+JapanCV(7/4)
+from Jin
+
+## 2020-07-15 DL／機械学習 オンライン勉強会 「みんなでやろうDL」 Day 5 もくもく会
+
+https://www.meetup.com/JTPA-Japanese-Technology-Professionals-Association/events/271892957/
+
+https://nocnoc.ooo/app#/chat/A1B6CDAC-637F-4455-9582-D086AC289268
+
+
+* https://colab.research.google.com/drive/1vgrncRo-TwmoJu6JNXZiJGfZeWnb1vvJ?usp=sharing
+AutoKeras のTutorial (MNIST手書き数字の例）
+* https://colab.research.google.com/drive/1_X4fz__f_nzSe1Qv273Hktr0gVeJra1R?usp=sharing
+AutokerasのPretainにてで物体認識
+from Takeo Shiata / Jin
+
+https://en.wikipedia.org/wiki/Elo_rating_system
+Elo rating system
+from Komei
