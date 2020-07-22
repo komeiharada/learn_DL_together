@@ -156,3 +156,10 @@ from Takeo Shiata / Jin
 https://en.wikipedia.org/wiki/Elo_rating_system
 Elo rating system
 from Komei
+
+https://medium.com/@gtnjuvin/my-journey-into-deep-q-learning-with-keras-and-gym-3e779cc12762
+https://colab.sandbox.google.com/drive/13nOusO6ecKdql0dhNcuQ65jxcPNdNkDr
+https://github.com/GaetanJUVIN/Deep_QLearning_CartPole
+from Jin
+Copied to https://colab.research.google.com/drive/147br3HYVRgJYBGl0o2zhZ4tALUluhpkb#scrollTo=TUYqaYnvjkDN
+
